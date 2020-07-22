@@ -1,5 +1,6 @@
 <?php
-add_action('wp_head', 'fc_opengraph');function fc_opengraph() {
+add_action('wp_head', 'fc_opengraph');
+function fc_opengraph() {
   if( is_single() || is_page() ) {
 
     $post_id = get_queried_object_id();
