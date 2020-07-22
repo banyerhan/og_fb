@@ -19,7 +19,7 @@ function fc_opengraph() {
 
     // Twitter Card   
     // echo '<meta name="twitter:card" content="summary_large_image" />';    
-    //echo '<meta name="twitter:site" content="@banyerhan" />';    echo '<meta name="twitter:banyerhan" content="@banyerhan" />';
+    // echo '<meta name="twitter:site" content="@banyerhan" />';    echo '<meta name="twitter:banyerhan" content="@banyerhan" />';
 
 	}
 }
